@@ -1,0 +1,132 @@
+@font-face {
+	font-family: 'Young Serif';
+	src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Outfit';
+	src: url('assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
+
+/* Variables */
+
+:root {
+    --primary-color: #444444;
+    --main-color: rgb(160, 65, 65);
+    --background-color: rgb(253, 237, 242);
+    --main-font: 'outfit', sans-serif;
+}
+
+html {
+    background-color: var(--background-color);
+    font-family: var(--main-font);
+}    
+
+body {
+    margin: 10% auto;
+    width: 44%;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.img-omelete {
+    width: 100%;
+    margin: auto;
+}
+
+.img-omelete img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+    font-size: 3.6vmax;
+}
+
+h2 {
+    color: var(--main-color);
+    font-family: 'Young Serif', serif;
+    font-size: 2vmax;
+}
+
+p {
+    color: var(--primary-color);
+}
+
+ul, ol {
+    color: var(--main-color);
+    padding-left: 30px;
+}
+
+li p{
+    color: var(--primary-color);
+}
+
+.preparation_time {
+    background-color: var(--background-color);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.preparation_time, .preparation_time ul {
+    color: rgb(128, 32, 66);
+}
+
+.ingredients, .instructions {
+    padding-bottom: 25px;
+    border-bottom: 2px solid #ddd;
+}
+
+table {
+    margin-bottom: 20px;
+    padding: 5px 30px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr {
+    border-bottom: 2px solid #ddd;
+}
+
+table tr:nth-child(4) {
+    border-bottom: none;
+}
+
+tr td {
+    padding: 15px 30px;
+}
+
+td:nth-child(2) {
+    color: var(--main-color);
+    font-weight: bolder;
+}
+
+/* Mobile Screens */
+
+@media screen and (max-width:540px) {
+    body {
+        margin: 0 auto 20px auto;
+        width: 100%;
+        padding: 0;
+        background-color: #fff;
+        border-radius: 15px;
+    }
+
+    .img-omelete img {
+        border-radius: 0;
+    }
+
+    div {
+        margin: 10px 40px;
+    }
+
+    h1 {
+        font-size: 6.5vmax;
+    }
+    
+    h2 {
+        font-size: 5.6vmax;
+    }
+}
