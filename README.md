@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe page By Tebogo 
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
@@ -6,33 +6,35 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) challenges helps me improve my coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**To do this challenge, I needed basic understanding of HTML and CSS.**
 
 ## The challenge
 
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
+My challenge was to build out this recipe page and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+I used tools I like to help me complete the challenge. 
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+[Join our community](https://www.frontendmentor.io/community) is where I find and ask questions in **#help** channel.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+My task is to build out the project to the designs inside the `/design` folder. There's both mobile and web versions
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+The designs are in JPG static format. Using JPGs will mean that I need to use my best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+To inspect the design in more detail, I can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Variables and static font files for the required fonts for this project are included. 
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+There is also a `style-guide.md` file containing the information I'll need, such as color palette and fonts.
 
-## Building your project
+
+
+## Building your project (Instructions)
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
